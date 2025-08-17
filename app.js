@@ -42,7 +42,7 @@ function verificarChute() {
 
         // Dica de proximidade 
         if (Math.abs(chute - numeroSecreto) <=3) {
-            mensagem += ' Você está muito perto!';
+            mensagem += ' Você está perto!';
         }
 
         exibirTextoNaTela('p', mensagem);
