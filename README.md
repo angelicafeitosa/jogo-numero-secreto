@@ -20,3 +20,5 @@
 1. Clone o repositório:  
 ```bash
 git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+```
+2. Abra o explorador de arquivos do seu computador e clique em abri com o seu navegador.
