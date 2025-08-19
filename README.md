@@ -21,4 +21,5 @@
 ```bash
 git clone https://github.com/seu-usuario/jogo-numero-secreto.git
 ```
-2. Abra o explorador de arquivos do seu computador e clique em abri com o seu navegador.
+2. Abra o explorador de arquivos do seu computador e procure a pasta que foi clonada.
+3. Extrai o arquivo clonado e após isso abra a pasta que foi extraída e vá até o nome index e clique com o botão direito do mouse em abrir, depois clique em cima com o botão esquerdo para abrir no navegador.
