@@ -35,9 +35,9 @@ function verificarChute() {
         document.getElementById('reiniciar').removeAttribute('disabled');
     } else {
         if (chute > numeroSecreto) {
-            mensagem = 'Errouuuu! O número é menor.';
+            mensagem = 'O número secreto é menor.';
         } else {
-            mensagem = 'Errouuuu! O número é maior.';
+            mensagem = 'O número secreto é maior.';
         }
 
         // Dica de proximidade 
